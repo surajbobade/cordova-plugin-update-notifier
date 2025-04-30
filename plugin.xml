@@ -65,8 +65,8 @@ limitations under the License.
       <string name="app_update_install">RESTART</string>
     </config-file>
 
-    <preference name="ANDROIDX_MATERIAL_DESIGN_VERSION" default="[1.0,2)" />
-    <preference name="PLAY_APP_UPDATE_SDK_VERSION" default="[2.0,3)" />
+    <preference name="ANDROIDX_MATERIAL_DESIGN_VERSION" default="1.12.0" />
+    <preference name="PLAY_APP_UPDATE_SDK_VERSION" default="2.1.0" />
 
     <framework src="com.google.android.material:material:$ANDROIDX_MATERIAL_DESIGN_VERSION" />
     <framework src="com.google.android.play:app-update:$PLAY_APP_UPDATE_SDK_VERSION" />
